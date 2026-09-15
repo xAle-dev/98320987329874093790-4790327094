@@ -23,8 +23,8 @@ local Config = {
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
 
     -- [6] GUI Management
-    OldGuiName      = "", -- Name of the old GUI to destroy if it's already open
-    MainGuiName     = "", -- Name of the main script's GUI to check if it's already executing
+    OldGuiName      = "amy", -- Name of the old GUI to destroy if it's already open
+    MainGuiName     = "STEAL AN EGG", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
     HubName         = "OP AUTO STEAL AN EGG SCRIPT", -- The main title shown at the top of the GUI
