@@ -7,7 +7,7 @@ local Config = {
     Secret          = "AlexAndTuPapiOpex", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "https://raw.githubusercontent.com/xAle-dev/98320987329874093790-4790327094/refs/heads/main/298932189890183.luau", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/xAle-dev/829038219083-02/refs/heads/main/83247832897378.luau", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
