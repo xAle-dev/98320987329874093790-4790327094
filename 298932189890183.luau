@@ -5,7 +5,7 @@ local ProtectionConfig = {
     SecretKey = "AlexAndTuPapiOpex",
     
     -- The name of your Hub (shown in the kick message if they try to bypass)
-    HubName = "OP STEAL AN EGG SCRIPT"
+    HubName = "OP AUTO STEAL AN EGG SCRIPT"
 }
 
 -- Anti-Bypass Logic: Checks if the Key System successfully set the global variable
